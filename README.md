@@ -14,9 +14,8 @@ Part_5/: Dealing with Complex Scenarios
 
 ## Instructions for Running Scripts
 1. Navigate to each part's folder.
-2. Run the main script using `python partX_script.py`.
-3. Run the test cases using `python test_partX.py`.
-
+2. Run the main script using `python`.
+   
 ## Thought Process
 Each part of the assignment builds upon the previous one, adding complexity and real-world scenarios. Below is a summary of each part:
 
